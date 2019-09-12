@@ -1,9 +1,5 @@
-# kasoa
+# Kasoa
 Creating an online shopping application as practice for my nodejs
-
-# Project Title
-
-Kasoa-NodeJs
 
 ---
 ## Requirements
